@@ -41,7 +41,7 @@ I am seeking **fully funded PhD opportunities for Fall 2027** in Artificial Inte
 
 ## Connect
 
-[Portfolio](https://sattipraveena3-sudo.github.io/sattipraveena3-sudo/) · [LinkedIn](https://www.linkedin.com/in/praveenasatti) · [ORCID](https://orcid.org/0009-0000-6555-5072) · [Email](mailto:sattipraveena3@gmail.com)
+[Portfolio](https://sattipraveena3-sudo.github.io/) · [LinkedIn](https://www.linkedin.com/in/praveenasatti) · [ORCID](https://orcid.org/0009-0000-6555-5072) · [Email](mailto:sattipraveena3@gmail.com)
 
 ---
 

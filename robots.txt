@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sattipraveena3-sudo.github.io/sattipraveena3-sudo/sitemap.xml
+Sitemap: https://sattipraveena3-sudo.github.io/sitemap.xml
