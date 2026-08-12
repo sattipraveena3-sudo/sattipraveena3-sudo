@@ -1,13 +1,48 @@
-# 💫 About Me:
-# Hi, I'm Praveena Satti 👋<br><br>I'm an AI Engineer passionate about building intelligent systems that solve real-world problems through Artificial Intelligence, Machine Learning, and Data-driven technologies.<br><br>My work focuses on developing AI solutions across multiple domains, including Machine Learning, Generative AI, Large Language Models (LLMs), Multimodal AI, Data Science, and intelligent automation.<br><br>I enjoy exploring emerging technologies, designing scalable AI systems, and transforming ideas into practical solutions. My interests include AI research, deep learning, natural language processing, computer vision, and the future of human-centered artificial intelligence.<br><br>Currently, I am exploring advanced AI architectures, research-driven projects, and applications of AI that create meaningful impact.<br><br>## 🔬 Research Interests<br>- Artificial Intelligence & Machine Learning<br>- Generative AI & Large Language Models<br>- Multimodal AI Systems<br>- Deep Learning<br>- AI-powered Automation<br>- Data Science & Analytics<br>- Digital Twin Technologies<br><br>## 🤝 Let's Connect<br><br>I am interested in collaborating on AI research, open-source projects, and innovative technology solutions.
+# Praveena Satti
 
+AI/ML engineer and researcher working across **biomedical AI, multimodal data fusion, NLP, Retrieval-Augmented Generation, cloud automation, and scalable data infrastructure**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveena-satti-817289263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sattipraveena3@gmail.com) 
+I connect research questions with production execution: from Transformer-based NLP and biomedical digital-twin concepts to enterprise RAG, APIs, ETL, and cloud deployment.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## Current focus
 
+I am seeking **fully funded PhD opportunities for Fall 2027** in Artificial Intelligence / Machine Learning, especially:
 
+- Biomedical AI and healthcare AI
+- Multimodal learning and longitudinal health data
+- Natural language processing, Transformers, and RAG
+- Computational biology, bioinformatics, and AI for scientific discovery
+- Reliable, evidence-grounded AI systems
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Evidence at a glance
+
+- Author of [*Emotion Classification Using BERT: A Comprehensive Study*](https://www.propulsiontechjournal.com/index.php/journal/article/view/8744), published in the *Journal of Propulsion Technology*.
+- Developed [BioTwin-PE](https://github.com/sattipraveena3-sudo/BioTwin-PE-APEE), a multimodal framework for continuous placental monitoring using APRE, TPSM, and backward-consistent smoothing.
+- AI/ML engineering experience across enterprise RAG, NLP automation, AWS pipelines, backend APIs, Docker, CI/CD, SQL, and vector indexing.
+- Five global certifications from AWS, Google Cloud, GitHub, Salesforce, and Automation Anywhere.
+- Member of IEEE, IEEE Women in Engineering, and IEEE SIGHT.
+
+## Selected work
+
+| Work | Focus | Evidence |
+|---|---|---|
+| BioTwin-PE | Biomedical AI, multimodal data fusion, digital twins | [Repository](https://github.com/sattipraveena3-sudo/BioTwin-PE-APEE) |
+| BERT Emotion Classification | Transformers, NLP, multi-label learning | [Publication](https://www.propulsiontechjournal.com/index.php/journal/article/view/8744) |
+| HireLens | Applied language AI, ATS analysis | [Source](https://github.com/sattipraveena3-sudo/hirenlens-ats-scanner) |
+| Enterprise RAG | LangChain, vector indexing, REST, SQL | Professional experience |
+| AWS Data Pipeline Automation | AWS Glue, PySpark, S3, ETL | Research and data project |
+
+## Technical foundation
+
+**Languages:** Python, SQL, Java, JavaScript, C, C++  
+**AI/ML:** BERT, Transformers, TensorFlow, PyTorch, Scikit-learn, NLP, LangChain, RAG, vector databases  
+**Data:** ETL, PySpark, AWS Glue, Pandas, NumPy, MySQL, Neo4j, Power BI, Tableau  
+**Backend & Cloud:** Flask, FastAPI, REST APIs, Node.js, AWS, GCP, Docker, CI/CD, Linux
+
+## Connect
+
+[Portfolio](https://sattipraveena3-sudo.github.io/sattipraveena3-sudo/) · [LinkedIn](https://www.linkedin.com/in/praveenasatti) · [ORCID](https://orcid.org/0009-0000-6555-5072) · [Email](mailto:sattipraveena3@gmail.com)
+
+---
+
+This repository contains the source for my research-focused personal website. It is intentionally static, accessible, responsive, and dependency-free.

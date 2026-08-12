@@ -1,0 +1,9 @@
+{
+  "name": "Praveena Satti — AI/ML Engineer & Researcher",
+  "short_name": "Praveena Satti",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#14231f",
+  "icons": [{"src": "assets/img/mark.svg", "sizes": "any", "type": "image/svg+xml"}]
+}
