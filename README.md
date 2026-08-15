@@ -6,7 +6,7 @@ I connect research questions with production execution: from Transformer-based N
 
 ## Current focus
 
-I am seeking **fully funded PhD opportunities for Fall 2027** in Artificial Intelligence / Machine Learning, especially:
+My research and engineering interests include:
 
 - Biomedical AI and healthcare AI
 - Multimodal learning and longitudinal health data
@@ -48,7 +48,7 @@ My complete project portfolio is available at [sattipraveena3-sudo.github.io/pro
 
 ## Connect
 
-[Portfolio](https://sattipraveena3-sudo.github.io/) · [LinkedIn](https://www.linkedin.com/in/praveenasatti) · [ORCID](https://orcid.org/0009-0000-6555-5072) · [Email](mailto:sattipraveena3@gmail.com)
+[GitHub profile](https://github.com/sattipraveena3-sudo) · [Portfolio](https://sattipraveena3-sudo.github.io/) · [LinkedIn](https://www.linkedin.com/in/praveenasatti) · [ORCID](https://orcid.org/0009-0000-6555-5072) · [Email](mailto:sattipraveena3@gmail.com)
 
 ---
 

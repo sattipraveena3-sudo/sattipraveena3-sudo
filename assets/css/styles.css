@@ -368,6 +368,7 @@ h3 {
   margin-top: 7px;
   color: var(--forest) !important;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .availability::before {
