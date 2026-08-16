@@ -1,0 +1,1 @@
+Cute motion layer is loaded dynamically by assets/js/main.js after aesthetic.css. It is decorative-only, responsive, and respects prefers-reduced-motion.
