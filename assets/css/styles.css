@@ -452,6 +452,10 @@ h3 {
   gap: 18px;
 }
 
+.featured-product {
+  grid-column: 1 / -1;
+}
+
 .card {
   position: relative;
   display: flex;

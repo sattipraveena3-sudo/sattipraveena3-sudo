@@ -82,6 +82,11 @@
   background: rgba(240, 249, 255, .88);
   color: #607f9e;
 }
+.project-badge.product {
+  border-color: rgba(83, 157, 137, .2);
+  background: rgba(239, 253, 247, .9);
+  color: #477f70;
+}
 .kawaii-projects .project-flagship {
   grid-column: 1 / -1;
   min-height: 385px;
@@ -134,6 +139,15 @@
 }
 .kawaii-projects .project-card--research::before {
   background: linear-gradient(90deg, #aedff4, #d2c5ff, #f1b4d2) !important;
+}
+.kawaii-projects .project-card--product {
+  border-color: rgba(92, 167, 145, .2) !important;
+  background:
+    radial-gradient(circle at 95% 7%, rgba(190, 242, 220, .38), transparent 27%),
+    linear-gradient(145deg, #fff, #f5fff9) !important;
+}
+.kawaii-projects .project-card--product::before {
+  background: linear-gradient(90deg, #95dbbf, #afe6f6, #d4c3ff) !important;
 }
 @keyframes projectHalo {
   0%, 100% { transform: translate3d(0, 0, 0) scale(1); }
